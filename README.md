@@ -96,9 +96,26 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👥 Authors
-- Your Name - Initial work
+- Rehaan - Lead Developer & Project Maintainer
+  - Implemented core features and system architecture
+  - Designed and developed the user interface
+  - Set up the backend infrastructure
+  - Integrated real-time features and authentication
 
 ## 🙏 Acknowledgments
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+
+I would like to express my gratitude to:
+
+- The React.js and Node.js communities for their excellent documentation and resources
+- MongoDB for providing a robust and scalable database solution
+- Tailwind CSS team for their utility-first CSS framework that made styling a breeze
+- All the open-source libraries and tools that made this project possible:
+  - Express.js for the backend framework
+  - JWT for secure authentication
+  - Socket.io for real-time features
+  - TypeScript for type safety
+  - Vite for the fast development experience
+- Special thanks to the real estate professionals who provided valuable insights into the industry requirements
+- Fellow developers who provided feedback and suggestions during the development process
+
+This project wouldn't have been possible without the support and contributions of the open-source community.

@@ -48,7 +48,7 @@ A comprehensive real estate platform that connects property buyers, sellers, and
 ### Frontend Setup
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/estate-hub.git
+git clone git@github.com:Reha-an/Estate-Hub.git
 
 # Navigate to project directory
 cd estate-hub
